@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/imagens">
+        <file>imgs/close-padlock.jpg</file>
+        <file>imgs/open-padlock.jpg</file>
+        <file>imgs/cfblogo.png</file>
+    </qresource>
+</RCC>
